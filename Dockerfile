@@ -1,6 +1,6 @@
 # VERSION 0.0.1
 # 中国科学项目- Mongo
-FROM mongo
+FROM mongo:3.0.9
 
 MAINTAINER 蒋凯 "kai.jiang@digitalpublishing.cn"
 
